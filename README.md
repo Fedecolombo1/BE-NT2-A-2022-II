@@ -19,3 +19,5 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 - Daniel Guzman, *dguzman-ort*
 - Federico Colombo, Fedecolombo1
+- Nicolas Wainschenker, *nicovejero*
+
